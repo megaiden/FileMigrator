@@ -1,0 +1,5 @@
+﻿Sword; 0; normal sword; true
+dragon tears; 1; restore a huge amount of HP; false
+black diamond; 2; ultra rare material to create weapons; true
+Common helmet; 1; normal helmet; true
+gold; 1; regular currency; true
